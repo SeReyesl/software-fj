@@ -14,7 +14,7 @@ class DatoInvalidoError(ErrorFJ):
 
 
 class ParametroFaltanteError(ErrorFJ):
-    # Falta algún dato obligatorio para seguir.
+    # Falta algun dato obligatorio para seguir.
     pass
 
 
@@ -24,7 +24,7 @@ class OperacionNoPermitidaError(ErrorFJ):
 
 
 class ServicioNoDisponibleError(ErrorFJ):
-    # El servicio no está libre o no se puede usar ahorita.
+    # El servicio no esta libre o no se puede usar ahorita.
     pass
 
 
@@ -34,5 +34,5 @@ class ReservaInvalidaError(ErrorFJ):
 
 
 class CalculoInconsistenteError(ErrorFJ):
-    # El cálculo del costo dio mal o salió negativo.
+    # El calculo del costo dio mal o salio negativo.
     pass

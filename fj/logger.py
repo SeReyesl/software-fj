@@ -4,10 +4,10 @@
 import logging
 import os
 
-# Crea la carpeta logs si aún no está ahí; así no revienta al escribir.
+# Crea la carpeta logs si aun no esta ahi; asi no revienta al escribir.
 os.makedirs("logs", exist_ok=True)
 
-# Deja listo el archivo, el nivel desde donde anota, la hora y la codificación.
+# Deja listo el archivo, el nivel desde donde anota, la hora y la codificacion.
 logging.basicConfig(
     filename="logs/sistema.log",
     level=logging.INFO,
@@ -15,5 +15,5 @@ logging.basicConfig(
     encoding="utf-8",
 )
 
-# Instancia que importo en los demás archivos del grupo.
+# Instancia que importo en los demas archivos del grupo.
 logger = logging.getLogger("SoftwareFJ")
