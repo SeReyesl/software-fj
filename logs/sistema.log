@@ -1,52 +1,32 @@
-2026-11-18 23:38:12,023 | INFO | ===== INICIO DE LA SIMULACION =====
-2026-11-18 23:38:12,023 | INFO | Cliente registrado: Ana Torres
-2026-11-18 23:38:12,023 | INFO | Operacion 1 exitosa
-2026-11-18 23:38:12,024 | INFO | Termina operacion 1
-2026-11-18 23:38:12,024 | ERROR | Operacion 2 fallo: El correo no parece valido.
-2026-11-18 23:38:12,024 | INFO | Termina operacion 2
-2026-11-18 23:38:12,024 | ERROR | Operacion 3 fallo: Falta el numero de documento.
-2026-11-18 23:38:12,024 | INFO | Termina operacion 3
-2026-11-18 23:38:12,025 | INFO | Operacion 4 exitosa
-2026-11-18 23:38:12,025 | INFO | Termina operacion 4
-2026-11-18 23:38:12,025 | ERROR | Operacion 5 fallo: La tarifa debe ser un numero mayor que 0
-2026-11-18 23:38:12,025 | INFO | Termina operacion 5
-2026-11-18 23:38:12,025 | INFO | Operacion 6 exitosa
-2026-11-18 23:38:12,025 | INFO | Termina operacion 6
-2026-11-18 23:38:12,026 | INFO | Reserva 100 confirmada
-2026-11-18 23:38:12,026 | INFO | Fin del procesamiento de la reserva 100
-2026-11-18 23:38:12,026 | INFO | Operacion 7 exitosa
-2026-11-18 23:38:12,026 | INFO | Termina operacion 7
-2026-11-18 23:38:12,026 | ERROR | Error inesperado en operacion 8: crear_reserva() missing 2 required positional arguments: 'servicio' and 'duracion'
-2026-11-18 23:38:12,026 | INFO | Termina operacion 8
-2026-11-18 23:41:41,529 | INFO | ===== INICIO DE LA SIMULACION =====
-2026-11-18 23:41:41,529 | INFO | Cliente registrado: Ana Torres
-2026-11-18 23:41:41,529 | INFO | Operacion 1 exitosa
-2026-11-18 23:41:41,529 | INFO | Termina operacion 1
-2026-11-18 23:41:41,529 | ERROR | Operacion 2 fallo: El correo no parece valido.
-2026-11-18 23:41:41,529 | INFO | Termina operacion 2
-2026-11-18 23:41:41,530 | ERROR | Operacion 3 fallo: Falta el numero de documento.
-2026-11-18 23:41:41,530 | INFO | Termina operacion 3
-2026-11-18 23:41:41,530 | INFO | Operacion 4 exitosa
-2026-11-18 23:41:41,530 | INFO | Termina operacion 4
-2026-11-18 23:41:41,530 | ERROR | Operacion 5 fallo: La tarifa debe ser un numero mayor que 0
-2026-11-18 23:41:41,530 | INFO | Termina operacion 5
-2026-11-18 23:41:41,530 | INFO | Operacion 6 exitosa
-2026-11-18 23:41:41,530 | INFO | Termina operacion 6
-2026-11-18 23:41:41,530 | INFO | Reserva 100 confirmada
-2026-11-18 23:41:41,531 | INFO | Fin del procesamiento de la reserva 100
-2026-11-18 23:41:41,531 | INFO | Operacion 7 exitosa
-2026-11-18 23:41:41,531 | INFO | Termina operacion 7
-2026-11-18 23:41:41,531 | ERROR | Fallo al procesar reserva 101: La sala se reserva entre 1 y 12 horas
-2026-11-18 23:41:41,531 | INFO | Fin del procesamiento de la reserva 101
-2026-11-18 23:41:41,531 | ERROR | Operacion 8 fallo: No se pudo procesar la reserva
-2026-11-18 23:41:41,531 | INFO | Termina operacion 8
-2026-11-18 23:41:41,531 | ERROR | Operacion 9 fallo: El servicio Asesoria IA no esta disponible
-2026-11-18 23:41:41,531 | INFO | Termina operacion 9
-2026-11-18 23:41:41,531 | INFO | Reserva 100 cancelada
-2026-11-18 23:41:41,531 | ERROR | Operacion 10 fallo: La reserva ya estaba cancelada
-2026-11-18 23:41:41,531 | INFO | Termina operacion 10
-2026-11-18 23:41:41,531 | ERROR | Fallo al procesar reserva 103: El descuento debe estar entre 0 y 1 (sin incluir 1)
-2026-11-18 23:41:41,531 | INFO | Fin del procesamiento de la reserva 103
-2026-11-18 23:41:41,532 | ERROR | Operacion 11 fallo: No se pudo procesar la reserva
-2026-11-18 23:41:41,532 | INFO | Termina operacion 11
-2026-11-18 23:41:41,532 | INFO | ===== FIN DE LA SIMULACION: 4 exitosas, 7 fallidas =====
+2026-11-18 23:45:14,084 | INFO | ===== INICIO DE LA SIMULACION =====
+2026-11-18 23:45:14,084 | INFO | Cliente registrado: Ana Torres
+2026-11-18 23:45:14,084 | INFO | Operacion 1 exitosa
+2026-11-18 23:45:14,085 | INFO | Termina operacion 1
+2026-11-18 23:45:14,085 | ERROR | Operacion 2 fallo: El correo no parece valido.
+2026-11-18 23:45:14,085 | INFO | Termina operacion 2
+2026-11-18 23:45:14,085 | ERROR | Operacion 3 fallo: Falta el numero de documento.
+2026-11-18 23:45:14,085 | INFO | Termina operacion 3
+2026-11-18 23:45:14,085 | INFO | Operacion 4 exitosa
+2026-11-18 23:45:14,085 | INFO | Termina operacion 4
+2026-11-18 23:45:14,085 | ERROR | Operacion 5 fallo: La tarifa debe ser un numero mayor que 0
+2026-11-18 23:45:14,086 | INFO | Termina operacion 5
+2026-11-18 23:45:14,086 | INFO | Operacion 6 exitosa
+2026-11-18 23:45:14,086 | INFO | Termina operacion 6
+2026-11-18 23:45:14,086 | INFO | Reserva 100 confirmada
+2026-11-18 23:45:14,086 | INFO | Fin del procesamiento de la reserva 100
+2026-11-18 23:45:14,086 | INFO | Operacion 7 exitosa
+2026-11-18 23:45:14,086 | INFO | Termina operacion 7
+2026-11-18 23:45:14,087 | ERROR | Fallo al procesar reserva 101: La sala se reserva entre 1 y 12 horas
+2026-11-18 23:45:14,087 | INFO | Fin del procesamiento de la reserva 101
+2026-11-18 23:45:14,087 | ERROR | Operacion 8 fallo: No se pudo procesar la reserva
+2026-11-18 23:45:14,087 | INFO | Termina operacion 8
+2026-11-18 23:45:14,087 | ERROR | Operacion 9 fallo: El servicio Asesoria IA no esta disponible
+2026-11-18 23:45:14,087 | INFO | Termina operacion 9
+2026-11-18 23:45:14,087 | INFO | Reserva 100 cancelada
+2026-11-18 23:45:14,087 | ERROR | Operacion 10 fallo: La reserva ya estaba cancelada
+2026-11-18 23:45:14,087 | INFO | Termina operacion 10
+2026-11-18 23:45:14,087 | ERROR | Fallo al procesar reserva 103: El descuento debe estar entre 0 y 1 (sin incluir 1)
+2026-11-18 23:45:14,087 | INFO | Fin del procesamiento de la reserva 103
+2026-11-18 23:45:14,087 | ERROR | Operacion 11 fallo: No se pudo procesar la reserva
+2026-11-18 23:45:14,087 | INFO | Termina operacion 11
+2026-11-18 23:45:14,088 | INFO | ===== FIN DE LA SIMULACION: 4 exitosas, 7 fallidas =====
