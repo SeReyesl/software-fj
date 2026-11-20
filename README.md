@@ -6,7 +6,7 @@ Proyecto de la Fase 4 - Prácticas simuladas del curso Programación (213023), U
 
 ## Descripcion
 
-Aplicacion en Python, orientada a objetos y sin base de datos, que gestiona clientes, servicios y reservas para la empresa Software FJ[cite: 4]. La empresa maneja tres servicios: reserva de salas, alquiler de equipos y asesorias especializadas.
+Aplicacion en Python, orientada a objetos y sin base de datos, que gestiona clientes, servicios y reservas para la empresa Software FJ. La empresa maneja tres servicios: reserva de salas, alquiler de equipos y asesorias especializadas.
 
 El programa busca mantenerse estable durante la ejecucion: si pasa algo mal datos invalidos, servicio no disponible, operacion no permitida, etc., lo captura, lo anota en el archivo de log y sigue corriendo sin caerse.
 
